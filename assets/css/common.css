@@ -1,0 +1,23 @@
+:root {
+    --primary-color: #000;
+    --secondary-color: #00bfff;
+    -background-color: #fff;
+}
+
+.green {
+    color: #CAFF33;
+}
+
+.invisible {
+    display: none;
+}
+
+.flex {
+    display: flex !important;
+}
+
+.disabled{
+    pointer-events: none !important;
+    opacity: 0.7 !important;
+    background-color: #b6adb4 !important;
+  }
